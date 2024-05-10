@@ -1,20 +1,52 @@
 {
-	"transactions": [
-		{
-			"id": 1,
-			"description": "Desenvolvimento de site",
-			"type": "income",
-			"category": "Venda",
-			"price": 14000,
-			"createAt": "2024-05-08T12:34:58.479Z"
-		},
-		{
-			"id": 2,
-			"description": "Hamburguer",
-			"type": "outcome",
-			"category": "Alimentação",
-			"price": 50,
-			"createAt": "2024-05-05T19:34:58.479Z"
-		}
-	]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createAt": "2024-05-08T12:34:58.479Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createAt": "2024-05-05T19:34:58.479Z"
+    },
+    {
+      "id": 9,
+      "description": "Mensalidade academia",
+      "type": "outcome",
+      "category": "Saúde",
+      "price": 99,
+      "createAt": "2024-05-10T15:20:58.479Z"
+    },
+    {
+      "id": 6,
+      "description": "Ze Delivery",
+      "type": "outcome",
+      "category": "Diversão",
+      "price": 77.4,
+      "createAt": "2024-05-10T18:20:58.479Z"
+    },
+    {
+      "id": 12,
+      "description": "Jogo Steam",
+      "type": "outcome",
+      "category": "Diversão",
+      "price": 100,
+      "createAt": "2024-05-20T18:20:58.479Z"
+    },
+    {
+      "id": 3,
+      "description": "Freela",
+      "type": "income",
+      "category": "Salario",
+      "price": 100,
+      "createAt": "2024-05-09T13:20:58.479Z"
+    }
+  ]
 }
