@@ -65,20 +65,36 @@
       "id": 14
     },
     {
-      "description": "Agua de coco",
-      "price": 2,
-      "category": "Alimentação",
+      "description": "Cerveja",
+      "price": 65,
+      "category": "diversão",
       "type": "outcome",
-      "createAt": "2024-05-10T18:59:01.743Z",
+      "createAt": "2024-05-10T20:51:14.144Z",
       "id": 15
     },
     {
-      "description": "Whey Protein",
-      "price": 100,
-      "category": "Alimentação",
+      "description": "Agua de coco",
+      "price": 2,
+      "category": "Alimetação",
       "type": "outcome",
-      "createAt": "2024-05-10T19:12:51.492Z",
+      "createAt": "2024-05-10T20:57:06.787Z",
       "id": 16
+    },
+    {
+      "description": "Acer Nitro 5 - Kabum",
+      "price": 4799,
+      "category": "Moradia",
+      "type": "outcome",
+      "createAt": "2024-05-10T21:10:14.549Z",
+      "id": 17
+    },
+    {
+      "description": "Freela",
+      "price": 2000,
+      "category": "Salario",
+      "type": "income",
+      "createAt": "2024-05-10T21:10:49.208Z",
+      "id": 18
     }
   ]
 }
