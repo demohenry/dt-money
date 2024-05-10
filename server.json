@@ -47,6 +47,38 @@
       "category": "Salario",
       "price": 100,
       "createAt": "2024-05-09T13:20:58.479Z"
+    },
+    {
+      "description": "Uber",
+      "price": 10,
+      "category": "diversão",
+      "type": "income",
+      "createAt": "2024-05-10T18:49:58.732Z",
+      "id": 13
+    },
+    {
+      "description": "Salgadinho",
+      "price": 3,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createAt": "2024-05-10T18:55:46.021Z",
+      "id": 14
+    },
+    {
+      "description": "Agua de coco",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createAt": "2024-05-10T18:59:01.743Z",
+      "id": 15
+    },
+    {
+      "description": "Whey Protein",
+      "price": 100,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createAt": "2024-05-10T19:12:51.492Z",
+      "id": 16
     }
   ]
 }
